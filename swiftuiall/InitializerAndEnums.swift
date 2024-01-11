@@ -48,5 +48,8 @@ struct InitializerAndEnums: View {
 }
 
 #Preview {
-  InitializerAndEnums(applecount: 10, fruit: .orange)
+  HStack{
+    InitializerAndEnums(applecount: 10, fruit: .orange)
+    InitializerAndEnums(applecount: 9, fruit: .apple)
+  }
 }
