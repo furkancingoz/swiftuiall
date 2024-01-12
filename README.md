@@ -19,16 +19,16 @@ added how to use foreach
 added how to use scroll view
 
 ![Ekran Resmi 2024-01-12 20 22 14](https://github.com/furkanwithcode/swiftuiall/assets/138152979/08dbc08e-04c6-4826-9b2f-a6efc9f95a97)
-![Ekran Resmi 2024-01-12 20 22 02](https://github.com/furkanwithcode/swiftuiall/assets/138152979/f80eb384-8d78-40e9-8bcd-79ff79fd6960)
+
 
 
 added how to use grid and instagram grid example 
 
 ![Ekran Resmi 2024-01-12 20 22 51](https://github.com/furkanwithcode/swiftuiall/assets/138152979/28573a60-090e-4c4d-b71a-583a79f64e2b)
-![Ekran Resmi 2024-01-12 20 22 41](https://github.com/furkanwithcode/swiftuiall/assets/138152979/846bba7d-dbb9-4c8e-97d1-285d8a581a60)
+
 
 added how to use button
 
-![Ekran Resmi 2024-01-12 20 23 37](https://github.com/furkanwithcode/swiftuiall/assets/138152979/25a2ec62-c91d-4fa4-aca6-116fe092b4a4)
+
 ![Ekran Resmi 2024-01-12 20 23 41](https://github.com/furkanwithcode/swiftuiall/assets/138152979/7456ecee-515d-4d1d-88d7-2db9c0a4653f)
 
