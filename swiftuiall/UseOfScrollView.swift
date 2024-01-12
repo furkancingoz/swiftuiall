@@ -10,11 +10,11 @@ import SwiftUI
 struct UseOfScrollView: View {
   var body: some View {
     ScrollView{
-      VStack{
-        ForEach(0..<10) { i in
+      LazyVStack{
+        ForEach(0..<90) { i in
           ScrollView(.horizontal ,showsIndicators: false, content: {
-            HStack {
-              ForEach(0..<20) { ix in
+          LazyHStack {
+              ForEach(0..<90) { ix in
                 RoundedRectangle(cornerRadius: 25)
                   .fill(Color.white)
                   .frame(width: 200,height: 150)
