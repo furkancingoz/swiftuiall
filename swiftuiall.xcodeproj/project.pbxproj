@@ -15,6 +15,7 @@
 		658D7AA62B5043D600211DE4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 658D7AA52B5043D600211DE4 /* ContentView.swift */; };
 		658D7AA82B5043DA00211DE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 658D7AA72B5043DA00211DE4 /* Assets.xcassets */; };
 		658D7AAB2B5043DA00211DE4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 658D7AAA2B5043DA00211DE4 /* Preview Assets.xcassets */; };
+		65A803DB2B5199FD004DA922 /* UseOfGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A803DA2B5199FD004DA922 /* UseOfGrid.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		658D7AA52B5043D600211DE4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		658D7AA72B5043DA00211DE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		658D7AAA2B5043DA00211DE4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		65A803DA2B5199FD004DA922 /* UseOfGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UseOfGrid.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				652DB86C2B50453500897484 /* InitializerAndEnums.swift */,
 				658564F62B515BAB00B70983 /* UseOfSpacer.swift */,
 				658564FA2B516F3600B70983 /* UseOfScrollView.swift */,
+				65A803DA2B5199FD004DA922 /* UseOfGrid.swift */,
 				658564F82B51666500B70983 /* UseOfForEach.swift */,
 				658D7AA72B5043DA00211DE4 /* Assets.xcassets */,
 				658D7AA92B5043DA00211DE4 /* Preview Content */,
@@ -155,6 +158,7 @@
 				658D7AA42B5043D600211DE4 /* swiftuiallApp.swift in Sources */,
 				658564F92B51666500B70983 /* UseOfForEach.swift in Sources */,
 				652DB86D2B50453500897484 /* InitializerAndEnums.swift in Sources */,
+				65A803DB2B5199FD004DA922 /* UseOfGrid.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
