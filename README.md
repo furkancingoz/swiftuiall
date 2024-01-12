@@ -10,3 +10,6 @@ added how to use foreach
 
 
 added how to use scroll view
+
+
+added how to use grid and instagram grid example 
