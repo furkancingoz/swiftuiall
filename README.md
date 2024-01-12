@@ -2,7 +2,7 @@
 
 added how to use init and enums 
 
-![Ekran Resmi 2024-01-12 20 19 22](https://github.com/furkanwithcode/swiftuiall/assets/138152979/ffc8b08b-e2ca-4645-9e86-d22afd6fe3fa)
+
 ![Ekran Resmi 2024-01-12 20 19 39](https://github.com/furkanwithcode/swiftuiall/assets/138152979/94a7020b-d79a-4c8e-b8d0-32311784500a)
 
 added how to use spacer
