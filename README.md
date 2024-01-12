@@ -7,12 +7,12 @@ added how to use init and enums
 
 added how to use spacer
 
-![Ekran Resmi 2024-01-12 20 20 38](https://github.com/furkanwithcode/swiftuiall/assets/138152979/1b21ea00-6b2d-4ab9-8a75-da44bbaba0b8)
+
 ![Ekran Resmi 2024-01-12 20 20 42](https://github.com/furkanwithcode/swiftuiall/assets/138152979/896201a5-e447-4602-9a24-1ba8a9e4d879)
 
 added how to use foreach
-![Ekran Resmi 2024-01-12 
-20 21 22](https://github.com/furkanwithcode/swiftuiall/assets/138152979/6e0ca57f-f3e0-4527-ab00-699657fce7a7)
+
+
 ![Ekran Resmi 2024-01-12 20 21 42](https://github.com/furkanwithcode/swiftuiall/assets/138152979/82144ec3-4556-43b8-9f76-b63823939eea)
 
 
