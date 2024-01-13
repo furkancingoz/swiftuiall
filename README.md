@@ -32,3 +32,10 @@ added how to use button
 
 ![Ekran Resmi 2024-01-12 20 23 41](https://github.com/furkanwithcode/swiftuiall/assets/138152979/7456ecee-515d-4d1d-88d7-2db9c0a4653f)
 
+
+
+added how to use state and example 
+
+
+![Ekran Resmi 2024-01-13 23 10 55](https://github.com/furkanwithcode/swiftuiall/assets/138152979/7cef5f7f-1255-4839-8606-511a9edcb3cf)
+
