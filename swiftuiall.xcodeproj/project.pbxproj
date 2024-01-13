@@ -19,6 +19,7 @@
 		65A803DD2B51A481004DA922 /* UseOfButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A803DC2B51A481004DA922 /* UseOfButton.swift */; };
 		65B1B5AD2B52E306005C24C0 /* UseOfState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B1B5AC2B52E306005C24C0 /* UseOfState.swift */; };
 		65BC529B2B532897004D2548 /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65BC529A2B532897004D2548 /* ExtractedFunctions.swift */; };
+		65BC529D2B532C26004D2548 /* ExtractSubviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65BC529C2B532C26004D2548 /* ExtractSubviews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		65A803DC2B51A481004DA922 /* UseOfButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UseOfButton.swift; sourceTree = "<group>"; };
 		65B1B5AC2B52E306005C24C0 /* UseOfState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UseOfState.swift; sourceTree = "<group>"; };
 		65BC529A2B532897004D2548 /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
+		65BC529C2B532C26004D2548 /* ExtractSubviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				65A803DA2B5199FD004DA922 /* UseOfGrid.swift */,
 				658564F82B51666500B70983 /* UseOfForEach.swift */,
 				65BC529A2B532897004D2548 /* ExtractedFunctions.swift */,
+				65BC529C2B532C26004D2548 /* ExtractSubviews.swift */,
 				65A803DC2B51A481004DA922 /* UseOfButton.swift */,
 				65B1B5AC2B52E306005C24C0 /* UseOfState.swift */,
 				658D7AA72B5043DA00211DE4 /* Assets.xcassets */,
@@ -161,6 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65BC529D2B532C26004D2548 /* ExtractSubviews.swift in Sources */,
 				65BC529B2B532897004D2548 /* ExtractedFunctions.swift in Sources */,
 				658564F72B515BAB00B70983 /* UseOfSpacer.swift in Sources */,
 				658D7AA62B5043D600211DE4 /* ContentView.swift in Sources */,
