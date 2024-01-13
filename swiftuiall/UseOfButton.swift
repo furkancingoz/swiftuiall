@@ -37,6 +37,7 @@ struct UseOfButton: View {
               .shadow(radius: 10)
           )
       })
+
       Button(action: {
         self.title = "heart button tapped"
           .uppercased()
@@ -51,6 +52,7 @@ struct UseOfButton: View {
               .foregroundStyle(.red)
           )
       })
+
       Button(action: {
         self.title = "Finish button tapped"
           .uppercased()

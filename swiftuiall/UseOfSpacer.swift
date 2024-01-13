@@ -15,7 +15,7 @@ struct UseOfSpacer: View {
         Image(systemName: "xmark")
         Spacer()
           .frame(height: 10)
-          //.background(Color.orange)
+          .background(Color.orange)
         Image(systemName: "gear")
 
       }
@@ -25,7 +25,7 @@ struct UseOfSpacer: View {
       //.background(Color.blue)
       Spacer()
         .frame(width: 10)
-       // .background(Color.orange)
+       .background(Color.orange)
 
       Rectangle()
         .frame(height: 55)

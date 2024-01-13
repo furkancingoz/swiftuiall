@@ -17,6 +17,7 @@
 		658D7AAB2B5043DA00211DE4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 658D7AAA2B5043DA00211DE4 /* Preview Assets.xcassets */; };
 		65A803DB2B5199FD004DA922 /* UseOfGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A803DA2B5199FD004DA922 /* UseOfGrid.swift */; };
 		65A803DD2B51A481004DA922 /* UseOfButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A803DC2B51A481004DA922 /* UseOfButton.swift */; };
+		65B1B5AD2B52E306005C24C0 /* UseOfState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B1B5AC2B52E306005C24C0 /* UseOfState.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		658D7AAA2B5043DA00211DE4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		65A803DA2B5199FD004DA922 /* UseOfGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UseOfGrid.swift; sourceTree = "<group>"; };
 		65A803DC2B51A481004DA922 /* UseOfButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UseOfButton.swift; sourceTree = "<group>"; };
+		65B1B5AC2B52E306005C24C0 /* UseOfState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UseOfState.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				65A803DA2B5199FD004DA922 /* UseOfGrid.swift */,
 				658564F82B51666500B70983 /* UseOfForEach.swift */,
 				65A803DC2B51A481004DA922 /* UseOfButton.swift */,
+				65B1B5AC2B52E306005C24C0 /* UseOfState.swift */,
 				658D7AA72B5043DA00211DE4 /* Assets.xcassets */,
 				658D7AA92B5043DA00211DE4 /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 				658D7AA42B5043D600211DE4 /* swiftuiallApp.swift in Sources */,
 				658564F92B51666500B70983 /* UseOfForEach.swift in Sources */,
 				652DB86D2B50453500897484 /* InitializerAndEnums.swift in Sources */,
+				65B1B5AD2B52E306005C24C0 /* UseOfState.swift in Sources */,
 				65A803DB2B5199FD004DA922 /* UseOfGrid.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
