@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-        
+          InitializerAndEnums(applecount: 3, fruit: .apple)
         }
         .padding()
     }
