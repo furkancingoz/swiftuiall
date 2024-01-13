@@ -39,3 +39,11 @@ added how to use state and example
 
 ![Ekran Resmi 2024-01-13 23 10 55](https://github.com/furkanwithcode/swiftuiall/assets/138152979/7cef5f7f-1255-4839-8606-511a9edcb3cf)
 
+
+added functions and subviews 
+
+
+![Ekran Resmi 2024-01-14 00 00 38](https://github.com/furkanwithcode/swiftuiall/assets/138152979/838b4440-09aa-45ba-bac3-4a5580a353f8)
+
+
+
