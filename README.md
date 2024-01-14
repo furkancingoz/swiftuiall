@@ -46,4 +46,6 @@ added functions and subviews
 ![Ekran Resmi 2024-01-14 00 00 38](https://github.com/furkanwithcode/swiftuiall/assets/138152979/838b4440-09aa-45ba-bac3-4a5580a353f8)
 
 
+added @Binding property
+
 
